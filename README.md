@@ -25,6 +25,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="47" height="47" />
 </div>
 
+> 
+
 ### ✨Stats:✨
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jon7even&layout=compact&theme=tokyonight)
