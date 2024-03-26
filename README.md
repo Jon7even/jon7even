@@ -1,11 +1,11 @@
-### Hi there [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  I'm Andrey aka Jon7even
+### Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  I'm Andrey aka Jon7even
 
 ### Статистика
 
-[![Jon7even's GitHub stats](https://github-readme-stats.vercel.app/api?username=jon7even&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Jon7even's GitHub stats](https://github-readme-stats.vercel.app/api?username=jon7even&hide=stars,contribs&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jon7even&layout=compact&theme=onedark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jon7even&layout=compact&theme=dark)]
 
 
 <!--
