@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Andrey aka Jon7even 👋
+
+### Статистика
+
+[![Jon7even's GitHub stats](https://github-readme-stats.vercel.app/api?username=jon7even&hide=contribs,prs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jon7even&layout=compact)
+
 
 <!--
 **Jon7even/jon7even** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
