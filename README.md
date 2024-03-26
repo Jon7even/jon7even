@@ -30,5 +30,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jon7even&layout=compact&theme=tokyonight)
 
 ![Jon7even's GitHub stats](https://github-readme-stats.vercel.app/api?username=jon7even&hide=stars,contribs&show_icons=true&theme=tokyonight)
-
-<br />
