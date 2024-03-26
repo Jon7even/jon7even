@@ -9,9 +9,8 @@
 - ⚡ Fun fact: I ❤ music (Play, listen, enjoy)
 > 
 
-### ✨Technical Stack✨
-<br/>
-
+### ✨Technical Stack:✨
+<br />
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="47" height="47" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="47" height="47" />
@@ -25,10 +24,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/liquibase/liquibase-original.svg" title="Liquibase" alt="Liquibase" width="47" height="47" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="47" height="47" />
 </div>
-<br/>
-### ✨Stats✨
-<br/>
+<br />
+### ✨Stats:✨
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jon7even&layout=compact&theme=tokyonight)
-<br/>
+
 ![Jon7even's GitHub stats](https://github-readme-stats.vercel.app/api?username=jon7even&hide=stars,contribs&show_icons=true&theme=tokyonight)
-<br/>
+
+<br />
