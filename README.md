@@ -1,24 +1,17 @@
-### Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  I'm Andrey aka Jon7even
+## Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  I'm Andrey aka Jon7even
 
-### Статистика
+### I am a Java developer, I like science and technology
 
-[![Jon7even's GitHub stats](https://github-readme-stats.vercel.app/api?username=jon7even&hide=stars,contribs&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+- 🔭 I’m currently working on Telegram bot
+- 🌱 I’m currently learning Java, PostgreSQL
+- 💬 Ask me about Java/Spring Boot/PostgreSQL
+- 📫 How to reach me: [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me//jon_seven)
+- ⚡ Fun fact: I ❤ music (Play, listen, enjoy)
 
+### ✨Technical Stack✨
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jon7even&layout=compact&theme=dark)]
+### ✨Stats✨
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jon7even&layout=compact&theme=gruvbox)]
 
-<!--
-**Jon7even/jon7even** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Jon7even's GitHub stats](https://github-readme-stats.vercel.app/api?username=jon7even&hide=stars,contribs&show_icons=true&theme=gruvbox)(https://github.com/anuraghazra/github-readme-stats)
